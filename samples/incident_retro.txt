@@ -1,0 +1,15 @@
+Jordan: Let's do a quick retro on last night's outage before we move on.
+Lena: The root cause was a bad database migration that locked the users table.
+Jordan: Right, and the migration ran during peak traffic instead of the usual low-traffic window.
+Nate: We should schedule migrations only during the maintenance window going forward.
+Jordan: Agreed, let's go with enforcing migrations only during the maintenance window from now on.
+Lena: I'll draft a runbook update describing the new migration policy by Thursday.
+Nate: We also didn't get paged fast enough because the alert threshold was too high.
+Jordan: Nate, can you lower the alert threshold and retest it by next week?
+Nate: Yes, I'll lower the threshold and retest it by next week.
+Lena: Someone should also write the customer-facing incident summary.
+Jordan: I'll write the customer-facing incident summary by tomorrow.
+Nate: Total downtime was about eleven minutes, which is within our SLA but still worth fixing.
+Jordan: We decided to treat this as a high-priority follow-up given how close it was to breaching SLA.
+Lena: Sounds good, I think we covered the main points.
+Jordan: Thanks everyone, let's close this out and follow up next sprint.

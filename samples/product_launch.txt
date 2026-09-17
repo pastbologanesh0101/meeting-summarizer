@@ -1,0 +1,20 @@
+Alice: Thanks everyone for joining. Let's talk about the Q3 product launch timeline.
+Bob: Sure. The engineering team finished the core checkout flow last week.
+Alice: Great, that's ahead of schedule. What's still open on the design side?
+Carol: We still need final sign-off on the new pricing page mockups.
+Alice: Okay. We decided last time to launch on October 15th, and I want to confirm that's still the plan.
+Bob: Agreed, October 15th works for engineering as long as QA starts by next week.
+Carol: Design can hand off the pricing page by Friday, so QA should have enough runway.
+Alice: Let's go with October 15th as the official launch date then.
+Bob: I'll set up the staging environment and run the load tests before the launch.
+Alice: Carol, can you finalize the pricing page mockups by Friday?
+Carol: Yes, I'll have the final mockups ready by Friday.
+Bob: Someone also needs to update the marketing site copy to match the new pricing.
+Alice: Dave will update the marketing site copy by next Wednesday.
+Carol: We should also loop in support so they're ready for launch day questions.
+Alice: Good point. I'll reach out to the support team lead by tomorrow.
+Bob: One risk is the third-party payment provider's API rate limits under load.
+Alice: Let's flag that as a risk and revisit it in next week's check-in.
+Carol: Sounds good. Anything else before we wrap up?
+Bob: Nope, I think that covers it for today.
+Alice: Great, thanks everyone. We'll reconvene next week to review QA progress.
